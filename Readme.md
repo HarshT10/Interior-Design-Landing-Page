@@ -1,6 +1,6 @@
 # **Project 10 - Interior Design Landing Page**
 
-- This project is a landing page for interior designers. 
+- This project is a landing page for interior designers. It is Fully Responsive.
 
 [Netlify](https://interior-design-landing-page-harshcodes.netlify.app/)
 
